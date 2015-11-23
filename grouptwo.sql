@@ -208,7 +208,7 @@ CREATE TABLE SUBSCRIBE
   PRIMARY KEY (StudentID, MajID)
 ) ENGINE=INNODB;
 
-
+# Test Comment
 #####################
 # Define foreign keys
 #####################
